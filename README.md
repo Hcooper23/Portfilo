@@ -22,15 +22,13 @@ You will be deploying your React portfolio to Netlify.
 
 For each of the main features listed below, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature:
 
-Number and name of feature: ________________________________
+Estimate of time needed to complete: 6 hours
 
-Estimate of time needed to complete: _____
+Start time: 4:00 PM Eastern Standard Time
 
-Start time: _____
+Finish time: Not finished currently 11:16 PM Eastern Standard Time
 
-Finish time: _____
-
-Actual time needed to complete: _____
+Actual time needed to complete: N/A
 
 ## Submission Instructions
 
