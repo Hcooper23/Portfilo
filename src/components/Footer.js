@@ -20,8 +20,20 @@ class Footer extends Component {
           <div className="row">
             <div className="col social-links">{networks}</div>
             <div className="col">
-              <div className="language-icon mr-5"></div>
-              <div className="language-icon"></div>
+              <div 
+                style={{ display: "inline" }}
+              >
+                <span
+                  className="iconify language-icon mr-5"
+                  data-icon="twemoji-flag-for-flag-united-states"
+                  data-inline="false"
+                  id={window.$primaryLanguageIconId}
+                ></span>
+              </div>
+              <div 
+                style={{ display: "inline" }}
+              >
+              </div>
             </div>
             <div className="col">
               <div className="copyright py-4 text-center">
