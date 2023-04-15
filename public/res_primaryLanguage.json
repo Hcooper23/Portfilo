@@ -90,37 +90,45 @@
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
-      "title": "Front-End Developer",
-      "years": "10.2019 - present",
+      "company": "Leaf Filter Gutter Protection",
+      "title": "Project Manager",
+      "years": "04.2018 - 03.2022",
       "mainTech": [
-        "Angular 8/9/10"
+        "Project Managment"
       ],
       "technologies": [
-        "REST API",
-        "RxJS",
-        "JavaScript",
-        "Bootstrap",
-        "MDBootstrap",
-        "EF Core",
-        ".NET Core",
-        "SignalR",
-        "Angular Material"
+        "Team Development",
+        "Construction Management",
+        "Target Management",
+        "Time Management"
       ]
     },
     {
-      "company": "Serros Solutions",
-      "title": "Intern",
-      "years": "01.2018 - 09.2019",
+      "company": "Leaf Filter Gutter Protection",
+      "title": "Field Install Trainer",
+      "years": "04.2018 - 03.2022",
       "mainTech": [
-        "Angular 7/8"
+        "Adult Education Management"
       ],
       "technologies": [
-        "RxJS",
-        "Django",
-        "PHP",
-        "JavaScript",
-        "DHTMLX Gantt"
+        "Leadership Development",
+        "Microsoft Outlook",
+        "Scope Management",
+        "Client Services"
+      ]
+    },
+    {
+      "company": "Leaf Filter Gutter Protection",
+      "title": "Service Technician",
+      "years": "04.2018 - 03.2022",
+      "mainTech": [
+        "CRM (Customer Relationship Management)"
+      ],
+      "technologies": [
+        "Microsoft Excel",
+        "Microsoft Outlook",
+        "Problem Solving",
+        "Customer Service"
       ]
     }
   ]
